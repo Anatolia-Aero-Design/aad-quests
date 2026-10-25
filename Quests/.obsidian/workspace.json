@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılımcı/Github.md",
+                "file": "Yazılımcı/Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Github"
+              "title": "Python"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yazılımcı/Github.md",
+                "file": "Yazılımcı/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yazılımcı/Github.md",
+                "file": "Yazılımcı/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yazılımcı/Github.md",
+                "file": "Yazılımcı/Python.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,9 +191,12 @@
   "active": "95f9ec7dd0eb14bd",
   "lastOpenFiles": [
     "Yazılımcı/Linux.md",
-    "Yazılımcı/Github.md",
+    "Yazılımcı/Python.md",
     "Yazılımcı/Yazılımcı.md",
+    "Yazılımcı/Python Görevleri/Python Görevleri.md",
+    "Yazılımcı/Github.md",
     "Github görevi.md",
+    "Yazılımcı/Python Görevleri",
     "INDEX.md",
     "Yazılımcı/Github Görevleri",
     "Yazılımcı/Linux Eğitimi",

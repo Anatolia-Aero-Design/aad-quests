@@ -1,3 +1,3 @@
-- [[Linux Eğitimi]]
-- [[Github görevi]]
-- [[Markdown ve Obisidan]]
+- [[Linux]]
+- [[Github]]
+- [[Python]]
