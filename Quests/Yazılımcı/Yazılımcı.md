@@ -1,0 +1,3 @@
+- [[Linux Eğitimi]]
+- [[Github görevi]]
+- [[Markdown ve Obisidan]]

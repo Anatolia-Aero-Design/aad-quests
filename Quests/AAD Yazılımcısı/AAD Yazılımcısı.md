@@ -1,0 +1,7 @@
+[[Yer İstasyonu Olma Kabiliyeti]]
+[[Görüntüyü İşlemeyi Anlamak]]
+[[Veri İşlemeyi Anlamak]]
+[[ROS'u Bilmek]]
+[[Uçağı uçurma kabiliyeti]]
+[[Donanımları tanımak]]
+[[Sistemi Anlamak]]
