@@ -1,4 +1,4 @@
-[[Yer İstasyonu Olma Kabiliyeti]]
+[[Temel Yer İstasyonu Bilgisi]]
 [[Görüntüyü İşlemeyi Anlamak]]
 [[Veri İşlemeyi Anlamak]]
 [[ROS'u Bilmek]]
