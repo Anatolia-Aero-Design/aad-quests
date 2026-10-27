@@ -43,7 +43,13 @@ Başkasına ait bir projede çalışabilmek için önce kendi kopyanızı almal�
 - [ ] Şimdi *kendi hesabınızdaki* kopyaya gidin. Yeşil **"Code"** butonuna basıp web adresini (URL) kopyalayın.
 - [ ] Terminali açın ve projeyi indirmek istediğiniz klasöre gidip şunu yazın: `git clone <kopyaladıgınız-url>`
 - [ ] İndirme bitince terminalde klasörün içine girin: `cd <klasor-adi>`
-- [ ] **Obsidian'ı açın**, "Open folder as vault" (Klasörü vault olarak aç) diyerek yeni indirdiğiniz bu klasörü seçin.
+- [ ] **Obsidian'ı açın**, "Open folder as vault" (Klasörü vault olarak aç) diyerek indirdiğiniz klasörün içindeki `Quests` klasörünü seçin.
+
+> [!tip] **Obsidian kurulu değilse**
+> ```bash
+> sudo snap install obsidian --classic
+> ```
+> Daha önce bu adımı yaptıysanız atlayabilirsiniz.
 
 ---
 
