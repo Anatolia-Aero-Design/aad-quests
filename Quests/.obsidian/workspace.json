@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AAD Yazılımcısı/Temel Yer İstasyonu Bilgisi.md",
+                "file": "AAD Yazılımcısı/AAD Yazılımcısı.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Temel Yer İstasyonu Bilgisi"
+              "title": "AAD Yazılımcısı"
+            }
+          },
+          {
+            "id": "d4d21a1d250595c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INDEX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INDEX"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AAD Yazılımcısı/Temel Yer İstasyonu Bilgisi.md",
+                "file": "INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AAD Yazılımcısı/Temel Yer İstasyonu Bilgisi.md",
+                "file": "INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AAD Yazılımcısı/Temel Yer İstasyonu Bilgisi.md",
+                "file": "INDEX.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,19 +203,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "ae602e57fb8d48e1",
+  "active": "d4d21a1d250595c5",
   "lastOpenFiles": [
-    "AAD Yazılımcısı/AAD Yazılımcısı.md",
-    "Usta AAD Yazılımcısı/Usta AAD Yazılımcısı.md",
     "Yazılımcı/Yazılımcı.md",
     "Yazılımcı/Python.md",
     "Yazılımcı/Linux.md",
     "Yazılımcı/Github.md",
-    "AAD Yazılımcısı/Temel Yer İstasyonu Bilgisi.md",
+    "Usta AAD Yazılımcısı/Usta AAD Yazılımcısı.md",
+    "AAD Yazılımcısı/Veri İşlemeyi Anlamak.md",
+    "AAD Yazılımcısı/Temel Otonom ve Yer İstasyonu Bilgisi.md",
+    "AAD Yazılımcısı/Sistemi Anlamak.md",
+    "AAD Yazılımcısı/ROS'u Bilmek.md",
+    "AAD Yazılımcısı/Görüntüyü İşlemeyi Anlamak.md",
+    "AAD Yazılımcısı/Donanımları tanımak.md",
+    "AAD Yazılımcısı/AAD Yazılımcısı.md",
+    "INDEX.md",
     "Yazılımcı/Python Görevleri/Python Görevleri.md",
     "Github görevi.md",
     "Yazılımcı/Python Görevleri",
-    "INDEX.md",
     "Yazılımcı/Github Görevleri",
     "Yazılımcı/Linux Eğitimi",
     "Yazılımcı/L"
