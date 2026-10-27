@@ -47,4 +47,4 @@ Görev planlaması, waypoint navigasyon, yer kontrol istasyonu (QGroundControl) 
 > Tier 2'yi tamamlayanlar [[Usta AAD Yazılımcısı]] yoluna adım atabilir.
 
 > [!info] Görev Sırası
-> Katı bir sıra yoktur; ancak **Donanımları tanımak** → **ROS'u Bilmek** → diğerleri şeklinde ilerlemenizi öneririz.
+> Katı bir sıra yoktur; ancak **Temel otonom** → **Görüntü İşleme** → diğerleri şeklinde ilerlemenizi öneririz.
