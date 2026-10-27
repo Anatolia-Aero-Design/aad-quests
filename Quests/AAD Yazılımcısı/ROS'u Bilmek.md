@@ -38,7 +38,7 @@ Kod tabanımızdan örnek topic ve subscriber:
 ```
 [ image_processing ]                     [ otonom ]
   Publisher                           Subscriber
-  topic: img_proc  --------->  topic: nesne_pozisyonu
+  topic: img_proc  --------->  topic: img_proc
   msg: savasan_general/ImgProc             msg: savasan_general/ImgProc
 ```
 
